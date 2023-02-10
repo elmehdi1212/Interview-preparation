@@ -6,7 +6,7 @@ public class CommonCollectionMethods {
     public static void main(String[] args) {
         // all method of collection in java
          Collection<String> coll= Arrays.asList("sam,sara,mohamed"); // immutable
-      /*   coll.add("sam");
+         /*   coll.add("sam");
          coll.add("sara");
          coll.add("mohamed");*/
          System.out.println(coll.remove("sara"));     // true
