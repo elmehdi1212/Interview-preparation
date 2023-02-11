@@ -5,7 +5,7 @@ import java.util.Collection;
 public class CommonCollectionMethods {
     public static void main(String[] args) {
         // all method of collection in java
-         Collection<String> coll= Arrays.asList("sam,sara,mohamed"); // immutable
+         Collection<String> coll= Arrays.asList("sam,sara,mohamed"); // immutable we can not add a new element here
          /*   coll.add("sam");
          coll.add("sara");
          coll.add("mohamed");*/
